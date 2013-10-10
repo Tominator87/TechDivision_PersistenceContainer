@@ -12,8 +12,8 @@
     ],
     "require": {
         "php" : ">=5.4.0",
-        "techdivision/appserver": "dev-master",
-        "techdivision/persistencecontainerclient": "dev-master"
+        "techdivision/appserver": "~0.5.7@beta",
+        "techdivision/persistencecontainerclient": "~0.5.7@beta"
     },
     "autoload": {
         "psr-0": {"TechDivision": "src/"}
